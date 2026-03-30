@@ -13,6 +13,15 @@ The dataset includes:
 
 The data was provided in multiple Excel sheets and merged into a single dataset for analysis.
 
+## Evaluation Metrics
+The model was evaluated using:
+- Accuracy
+- Confusion Matrix
+- Precision
+- Recall
+- F1-score
+- Feature Importance
+
 ## Methodology
 The following machine learning pipeline was used:
 
@@ -50,3 +59,6 @@ The model achieved high accuracy on the test dataset and was able to successfull
 
 ## Conclusion
 This project demonstrates how machine learning can be applied to medical data to support Alzheimer’s disease classification. The Random Forest model was able to identify important cognitive and brain imaging features that contribute to diagnosis prediction.
+
+## Author 
+Raahima Khan 
